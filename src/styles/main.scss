@@ -1,0 +1,13 @@
+body {
+    background-color: pink;
+    margin: 0px;
+}
+
+.bg {
+    background-image: url(../assets/images/yoyo.png);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: 50%;
+}
