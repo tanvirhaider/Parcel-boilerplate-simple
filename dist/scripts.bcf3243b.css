@@ -1,0 +1,15 @@
+body {
+  background-color: pink;
+  margin: 0px;
+}
+
+.bg {
+  background-image: url(/yoyo.16327d07.png);
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: 50%;
+}
+
+/*# sourceMappingURL=/scripts.bcf3243b.css.map */
