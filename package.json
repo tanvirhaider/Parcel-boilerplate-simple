@@ -1,7 +1,6 @@
 {
   "name": "parcel-setup",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",
@@ -19,5 +18,18 @@
     "gsap": "^2.1.2",
     "rimraf": "^2.6.3",
     "scrollmagic": "^2.0.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanvirhaider/Parcel-boilerplate-simple.git"
+  },
+  "keywords": [
+    "parcel",
+    "boiler-plate"
+  ],
+  "bugs": {
+    "url": "https://github.com/tanvirhaider/Parcel-boilerplate-simple/issues"
+  },
+  "homepage": "https://github.com/tanvirhaider/Parcel-boilerplate-simple#readme",
+  "description": ""
 }
